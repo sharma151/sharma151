@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [sauravsharma.vercel.app](sauravsharma.vercel.app)
+- 👨‍💻 All of my projects are available at [sauravsharma.vercel.app](https://sauravsharma.vercel.app/)
 
 - 📫 How to reach me **sharmasaurav150503@gmail.com**
 
