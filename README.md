@@ -5,7 +5,7 @@
 <img align="right" alt="codinggif" width="450" src="https://github.com/sharma151/sharma151/blob/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma151&label=Profile%20views&color=0e75b6&style=flat" alt="sharma151" /> </p>
 
-<p align="left"> <a href="[https://twitter.com/sauravs24357850](https://x.com/connect2saurav)" target="blank"><img src="https://img.shields.io/twitter/follow/sauravs24357850?logo=twitter&style=for-the-badge" alt="@connect2saurav" /></a> </p>
+<p align="left"> <a href="https://x.com/connect2saurav" target="blank"><img src="https://img.shields.io/twitter/follow/sauravs24357850?logo=twitter&style=for-the-badge" alt="@connect2saurav" /></a> </p>
 
 - 🌱 I’m currently learning **React.js**
 
